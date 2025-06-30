@@ -1,0 +1,16 @@
+{
+  "name": "stickypi",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "author": "rsm.harsha",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
